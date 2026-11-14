@@ -6,5 +6,6 @@ import './styles.css'
 import './premium.css'
 import './experience.css'
 import './header-overrides.css'
+import './mobile.css'
 
 createRoot(document.getElementById('root')).render(<React.StrictMode><BrowserRouter><App /></BrowserRouter></React.StrictMode>)
